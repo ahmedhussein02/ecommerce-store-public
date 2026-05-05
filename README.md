@@ -13,6 +13,6 @@
 - Styling: Tailwind CSS (CDN)
 - Database: PostgreSQL on supabase + prisma ORM
 - Media Hosting: Cloudinary
-- Emailing system: Nodemailer (Mailtrap / SMTP)
+- Emailing system: ...
 - Auth: Passport.js (local strategy, no OAuth or OpenID connect) + bcrypt
 - Security: Helmet, CSRF, rate limiting, zod validation
