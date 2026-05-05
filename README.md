@@ -16,3 +16,6 @@
 - Emailing system: ...
 - Auth: Passport.js (local strategy, no OAuth or OpenID connect) + bcrypt
 - Security: Helmet, CSRF, rate limiting, zod validation
+---
+# Demo
+https://github.com/your-username/your-repo/assets/your-video-id/demo.mp4
